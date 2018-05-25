@@ -98,5 +98,8 @@ ENV/
 # mypy
 .mypy_cache/
 
+#MAC
+.DS_Store
+
 #pycharm
 .idea/
